@@ -1,0 +1,13 @@
+[project]
+name = "genius-nodes"
+version = "1.0.0"
+description = "Smart and practical custom nodes for ComfyUI."
+license = { file = "LICENSE.txt" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/GeniusGQ/ComfyUI-Genius-Nodes"
+
+[tool.comfy]
+PublisherId = "genius"
+DisplayName = "Genius Nodes"

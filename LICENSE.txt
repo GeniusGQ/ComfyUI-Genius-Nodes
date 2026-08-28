@@ -1,0 +1,128 @@
+Genius Nodes License v1.0
+
+Copyright (c) 2026 Genius / GeniusGQ
+All rights reserved.
+
+This software, including its source code, documentation, and associated
+materials (collectively, the "Software"), is proprietary software made
+available under the following terms.
+
+1. PERMITTED USE
+
+You are granted a non-exclusive right to download, install, execute, and use
+the Software with ComfyUI for personal, educational, research, professional,
+and commercial creative workflows.
+
+The Software may be used to create images, videos, audio, workflows, and other
+outputs for both non-commercial and commercial purposes.
+
+Outputs created using the Software are not subject to this license merely
+because the Software was used to create them.
+
+2. INSTALLATION AND NECESSARY COPIES
+
+You may make copies of the Software only where reasonably necessary for
+installation, execution, use, or personal backup.
+
+Distribution through official channels authorized by the copyright holder,
+including the Comfy Registry / ComfyUI Manager, is permitted.
+
+Nothing in this license is intended to override limited rights that may be
+required by the terms of a hosting platform, such as GitHub's functionality
+for viewing or forking public repositories.
+
+Such platform functionality does not grant any additional rights to reuse,
+modify, redistribute, rebrand, sublicense, sell, or commercially distribute
+the Software.
+
+3. REDISTRIBUTION IS NOT PERMITTED
+
+Without prior written permission from the copyright holder, you may not
+redistribute, mirror, republish, upload, bundle, package, or otherwise make
+the Software or its source code available to third parties, whether free of
+charge or for payment.
+
+Users should obtain the Software from an official distribution channel
+authorized by Genius.
+
+4. NO CODE REUSE OR DERIVATIVE DISTRIBUTION
+
+Without prior written permission from the copyright holder, you may not:
+
+- copy or reuse the source code, or substantial portions of it, in another
+  project, application, extension, custom node, or node pack;
+
+- modify, adapt, translate, or create derivative versions of the Software
+  for public or third-party distribution;
+
+- incorporate the Software or its source code into another distributed
+  software product;
+
+- publish a modified or renamed version of the Software;
+
+- use the Software as the basis of another product presented as your own.
+
+5. NO SALE OR COMMERCIAL DISTRIBUTION OF THE SOFTWARE
+
+You may not sell, rent, sublicense, license for a fee, commercially
+redistribute, or otherwise commercially exploit the Software itself without
+prior written permission from the copyright holder.
+
+This restriction applies to the Software itself and its source code.
+
+It does NOT restrict commercial use of images, videos, workflows, or other
+creative outputs produced using the Software.
+
+6. ATTRIBUTION AND BRANDING
+
+Copyright notices, license notices, author information, and Genius branding
+included with the Software may not be removed, concealed, or altered in a way
+that misrepresents the origin or authorship of the Software.
+
+You may refer to the Software by its official name in workflows, tutorials,
+reviews, documentation, screenshots, videos, and other informational content.
+
+Such references do not grant permission to present Genius branding, source
+code, or Software as your own work.
+
+7. WORKFLOW SHARING
+
+You may freely share ComfyUI workflow files that use or reference Genius
+Nodes, provided that the Genius Software itself or its source code is not
+bundled or redistributed with the workflow.
+
+Users receiving such workflows should obtain Genius Nodes through an official
+distribution channel.
+
+8. OWNERSHIP
+
+All rights, title, and interest in the Software, source code, documentation,
+and original project materials remain with the copyright holder.
+
+No ownership rights are transferred under this license.
+
+All rights not expressly granted by this license are reserved.
+
+9. TERMINATION
+
+The rights granted under this license terminate automatically if you violate
+its terms.
+
+Upon termination, you must cease any use or distribution that violates this
+license.
+
+10. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+11. COMMERCIAL LICENSING AND PERMISSIONS
+
+Permissions beyond the rights granted in this license, including redistribution,
+integration, modification, commercial distribution, or licensing of the
+Software, may be granted separately by the copyright holder upon written
+agreement.
