@@ -1,6 +1,6 @@
 [project]
 name = "genius-nodes"
-version = "1.0.0"
+version = "1.0.1"
 description = "Smart and practical custom nodes for ComfyUI."
 license = { file = "LICENSE.txt" }
 dependencies = []
@@ -8,6 +8,8 @@ dependencies = []
 [project.urls]
 Repository = "https://github.com/GeniusGQ/ComfyUI-Genius-Nodes"
 
+
 [tool.comfy]
 PublisherId = "genius"
 DisplayName = "Genius Nodes"
+Icon = "https://raw.githubusercontent.com/GeniusGQ/ComfyUI-Genius-Nodes/main/icon.png"
