@@ -426,7 +426,7 @@ This is especially useful when preparing images for resolution-sensitive workflo
 
 ### ComfyUI Manager / Registry
 
-Official Comfy Registry installation will be available after the first release.
+Genius Nodes is available through the Comfy Registry and can be installed through ComfyUI Manager.
 
 ---
 
